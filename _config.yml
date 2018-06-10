@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: midtravellers
 subtitle:
-description:
+description:非淡泊无以明志，非宁静无以致远
 author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -145,16 +145,16 @@ menu_icons:
 
 
 
-
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
+language: zh-Hans
 
 # ---------------------------------------------------------------
 # Font Settings
@@ -710,3 +710,15 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+
+repository: midtravellers/midtravellers.github.io
+
+menu:
+  home: /
+  archives: /archives
+  #about: /about
+  #categories: /categories
+  tags: /tags
+  #commonweal: /404.html
+
+avatar: http://example.com/avatar.png
